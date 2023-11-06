@@ -6,7 +6,7 @@ import react from "./react.svg"
 import node from "./node.svg"
 import mongo from "./mongo.svg"
 import flutter from "./flutter.svg"
-import person from "./person.jpg"
+import person from "./user.jpg"
 const Hero = () => {
   return (
     <div>
@@ -25,7 +25,7 @@ const Hero = () => {
               <h1>Hey, My Name is Nikhil Kumar , <br /> Am A Full Stack Developer</h1>
             </div>
             <div className="bottom-light-text">
-              <p>Expand your design skillset through live workshops, a-sync <br />lessons, and connect with like-minded individuals.</p>
+              <p>computer science student with passion for cross platform dev <br /> & Web App dev looking  for internship where i can apply my <br /> skills! and highly motivated  to learn new technologies!</p>
             </div>
            <a href="mailto:nikhildesign00@gmail.com">
            <div className="hero-button">
@@ -37,7 +37,7 @@ const Hero = () => {
         <div className="core">
           <h3>The Core Tech-Stack</h3>
           <p className="core-detail">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit
+            The Core tech Stack currently am working on
           </p>
 
           <div className="core-images">

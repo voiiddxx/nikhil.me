@@ -5,7 +5,7 @@ const Learning = () => {
         <div className="skill-main">
          <div className="skill-upper">
              <h1>Skills Which Will Matters</h1>
-             <p>Expand your design skillset through live workshops, a-sync <br /> lessons, and connect with like-minded individuals.</p>
+             <p>The Skills Which I am Currently Learning</p>
          </div>
          <div className="skill-card">
              <div className="box">

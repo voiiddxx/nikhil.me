@@ -5,7 +5,7 @@ const Skill = () => {
    <div className="skill-main">
     <div className="skill-upper">
         <h1>Skills That Matters</h1>
-        <p>Expand your design skillset through live workshops, a-sync <br /> lessons, and connect with like-minded individuals.</p>
+        <p>Skill listed that I have worked on for a long time <br /> and applied the knowledge to tasks in real time.</p>
     </div>
     <div className="skill-card">
         <div className="box">

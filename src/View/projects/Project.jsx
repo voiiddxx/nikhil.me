@@ -6,7 +6,7 @@ const Project = () => {
         <div className="project-box">
             <div className="project-text">
                 <h1>Checkout The Premium <br /> Projects and Explore</h1>
-                <p>Expand your design skillset through live workshops, a-sync <br />lessons, and connect with like-minded individuals.</p>
+                <p>What good is that Skill if you can't put it to use on the project?</p>
             </div>
             <div className="project-card">
               {/* Pro Planet Card */}
@@ -35,6 +35,8 @@ CSS , Express js , CLoudinary</p>
                 <p>Flutter , Dart , Mongoose , <br /> Nodejs 
 , Express js , CLoudinary</p>
               </div>
+             
+              
             </div>
         </div>
     </div>
