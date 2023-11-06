@@ -52,9 +52,20 @@
 
 
 @media screen and (max-width: 738px) {
+
+   
+
+   
     .about-text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
         flex-basis: 100%;
         padding: 25px;
     }
-    
+    .about-text p{
+        margin-right: 10px;
+        text-align: center;
+    }
 }

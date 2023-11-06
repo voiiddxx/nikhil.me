@@ -17,7 +17,9 @@ const Hero = () => {
         <div className="hero-text">
             <div className="upper-light">
                 <p>Connect With One Click</p>
-                <img src={person} alt="person" />
+              <a href="mailto:nikhildesign00@gmail.com">
+              <img src={person} alt="person" />
+              </a>
             </div>
             <div className="mid-bold-text">
               <h1>Hey, My Name is Nikhil Kumar , <br /> Am A Full Stack Developer</h1>
@@ -25,9 +27,11 @@ const Hero = () => {
             <div className="bottom-light-text">
               <p>Expand your design skillset through live workshops, a-sync <br />lessons, and connect with like-minded individuals.</p>
             </div>
-            <div className="hero-button">
+           <a href="mailto:nikhildesign00@gmail.com">
+           <div className="hero-button">
               <p>Get Started</p>
             </div>
+           </a>
         </div>
 
         <div className="core">

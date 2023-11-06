@@ -1,5 +1,6 @@
 *{
     margin: 0;padding: 0;
+    
 }
 .hero-main{
     height: 100vh;
@@ -20,7 +21,9 @@
     justify-content: center;
 }
 
+
 .hero-text .upper-light{
+
     display: flex;
     align-items: center;
     gap: 10px;
@@ -70,6 +73,9 @@
 .hero-button p{
     font-family: 'Manrope', sans-serif;
     font-weight: 700;
+    font-style: normal;
+    text-decoration: underline white;
+    color: black;
 
 }
 

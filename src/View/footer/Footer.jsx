@@ -9,9 +9,9 @@ const Footer = () => {
         <h2>Nikhil Kumar</h2>
         <p>Connect With me</p>
         <div className="connect-icons">
-        <Linkedin color='#fe7676' />
-        <Github color='#3dfffc' />
-        <Mail color='#ffe53d' />
+        <a href="https://www.linkedin.com/in/nikhil-kumar-1043b7239/"><Linkedin color='#fe7676' /></a>
+    <a href="https://github.com/voiiddxx">    <Github color='#3dfffc' /></a>
+        <a href="mailto:nikhildesign00@gmail.com"><Mail color='#ffe53d' /></a>
         </div>
     </div>
   )
