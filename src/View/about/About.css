@@ -26,7 +26,7 @@
 
 .about-text h1{
     color: #FF4545;
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Manrope', sans-serif; 
     font-size: 25px;
 }
 
@@ -46,12 +46,15 @@
     margin-top: 40px;
     height: 450px;
     width: 450px;
-    object-fit: contain;
+    object-fit: contain; 
     border-radius: 10px;
 }
 
 
-@media screen and (min-width: 480px) {
-    
+@media screen and (max-width: 738px) {
+    .about-text{
+        flex-basis: 100%;
+        padding: 25px;
+    }
     
 }
