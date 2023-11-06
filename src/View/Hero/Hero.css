@@ -1,0 +1,108 @@
+*{
+    margin: 0;padding: 0;
+}
+.hero-main{
+    height: 100vh;
+    width: 100%;
+    background-image: url("./hero.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+.hero-text{
+    background-color: transparent;
+    height: 70%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hero-text .upper-light{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #ff5858;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
+}
+
+.hero-text .upper-light img{
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.hero-text .mid-bold-text{
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 800;
+    font-size: 1.4rem;
+    background: linear-gradient( 
+        to right, #2a2a2a,  
+         #ffffff); 
+    -webkit-text-fill-color: transparent; 
+    -webkit-background-clip: text; 
+}
+
+.bottom-light-text{
+    color: rgb(81, 81, 81);
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    margin-top: 15px;
+}
+
+.hero-button{
+    height: 50px;
+    width: 280px;
+    margin-top: 15px;
+    background-color: white;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-button p{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+
+}
+
+.core{
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.core h3{
+    font-size: 15px;
+    color: white;
+    font-family: 'Manrope', sans-serif;
+}
+
+.core-detail{
+    color: rgb(157, 157, 157);
+    margin-top: 5px;
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Manrope', sans-serif;
+}
+.core-images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+    margin-top: 20px;
+}
+.core-images img{
+    height: 35px;
+    width: 35px;
+}
+
