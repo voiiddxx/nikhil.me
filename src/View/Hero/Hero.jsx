@@ -25,13 +25,18 @@ const Hero = () => {
               <h1>Hey, My Name is Nikhil Kumar , <br /> Am A Full Stack Developer</h1>
             </div>
             <div className="bottom-light-text">
-              <p>computer science student with passion for cross platform dev <br /> & Web App dev looking  for internship where i can apply my <br /> skills! and highly motivated  to learn new technologies!</p>
+              <p>computer science student with passion for cross platform dev  & Web App dev looking  for internship <br /> where i can apply my  skills! and highly motivated  to learn new technologies!</p>
             </div>
-           <a href="mailto:nikhildesign00@gmail.com">
-           <div className="hero-button">
-              <p>Get Started</p>
+
+            <div className="hero-button">
+              <div className="connect-button">
+                <p>Connect⚡</p>
+              </div>
+              <div className="github-button">
+                <p>Star on Github 💫</p>
+              </div>
             </div>
-           </a>
+          
         </div>
 
         <div className="core">
@@ -41,14 +46,14 @@ const Hero = () => {
           </p>
 
           <div className="core-images">
-            <img src={firebase} alt="firebase" />
-            <img src={react} alt="react" />
-            <img src={mongo} alt="mongo" />
-            <img src={flutter} alt="flutter" />
-            <img src={node} alt="node" />
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-react-5645899-4695757.png?f=webp" alt="firebase" />
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-flutter-9294855-7577998.png" alt="react" />
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-4-1175139.png" alt="mongo" />
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-java-script-5645832-4695690.png?f=webp" alt="flutter" />
+            <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-javascript-9294848-7577991.png" alt="node" />
           </div>
         </div>
-      </div>
+      </div>  
     </div>
   )
 }

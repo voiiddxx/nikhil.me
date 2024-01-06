@@ -3,9 +3,10 @@
     
 }
 .hero-main{
+    background-color: black;
     height: 100vh;
     width: 100%;
-    background-image: url("./hero.svg");
+    background-image: url("/src/View/Hero/protfoliobackground.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -23,11 +24,10 @@
 
 
 .hero-text .upper-light{
-
     display: flex;
     align-items: center;
     gap: 10px;
-    color: #ff5858;
+    color: white;
     font-family: 'Manrope', sans-serif;
     font-weight: 400;
 }
@@ -43,48 +43,33 @@
     margin-top: 10px;
     text-align: center;
     font-family: 'Manrope', sans-serif;
-    font-weight: 800;
+    font-weight: 900;
     font-size: 1.4rem;
-    background: linear-gradient( 
-        to right, #2a2a2a,  
-         #ffffff); 
-    -webkit-text-fill-color: transparent; 
-    -webkit-background-clip: text; 
+   color: white; 
 }
 
 .bottom-light-text{
-    color: rgb(81, 81, 81);
+    color: rgb(235, 235, 235);
     text-align: center;
     font-family: 'Manrope', sans-serif;
+    font-size: 13px;
     margin-top: 15px;
+    letter-spacing: 0.5px;
 }
 
 .hero-button{
-    height: 50px;
-    width: 280px;
-    margin-top: 15px;
-    background-color: white;
-    border-radius: 8px;
     display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.hero-button p{
-    font-family: 'Manrope', sans-serif;
-    font-weight: 700;
-    font-style: normal;
-    text-decoration: underline white;
-    color: black;
-
+    gap: 10px;
+    margin-top: 20px;
 }
 
 .core{
-    height: 200px;
+    height: 10px;
     width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: -50px;
 }
 
 .core h3{
@@ -111,4 +96,39 @@
     height: 35px;
     width: 35px;
 }
+
+
+.connect-button{
+    height: 40px;
+    width: 200px;
+    background-color: white;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.connect-button p{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+}
+.github-button{
+    height: 40px;
+    width: 200px;
+    background-color: transparent;
+    border: 1px solid rgba(66, 66, 66, 0.623);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+}
+
+
+.github-button p{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+
 
