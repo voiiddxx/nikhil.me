@@ -1,0 +1,47 @@
+.hackathon{
+    
+    width: 100%;
+    background-image: url("../grid.svg");
+    background-color: black;
+}
+.hack-parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.hack-image-1{
+    margin-top: 30px;
+    height: 200px;
+    width: 350px;
+    background-image: url("./sih2k23.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+    border-radius: 5px;
+}
+.hack-image-2{
+    margin-top: 30px;
+    height: 200px;
+    width: 350px;
+    background-image: url("./bhaarat.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+    border-radius: 5px;
+}
+.hack-image-3{
+    margin-top: 30px;
+    height: 200px;
+    width: 350px;
+    background-image: url("./kiet.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
+    border-radius: 5px;
+}
