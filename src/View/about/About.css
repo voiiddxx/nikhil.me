@@ -5,7 +5,7 @@
 
 .about-main{
     width: 100%;
-    background: url("../nocolor.svg");
+    background: url("../grid.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -47,7 +47,7 @@
     height: 450px;
     width: 450px;
     object-fit: contain; 
-    border-radius: 10px;
+    border-radius: 30px;
 }
 
 

@@ -22,7 +22,7 @@ const Hero = () => {
               </a>
             </div>
             <div className="mid-bold-text">
-              <h1>Hey, My Name is Nikhil Kumar , <br /> Am A Full Stack Developer</h1>
+              <h1>Hey, My Name is <span> Nikhil Kumar</span> , <br /> Am A Full Stack Developer</h1>
             </div>
             <div className="bottom-light-text">
               <p>computer science student with passion for cross platform dev  & Web App dev looking  for internship <br /> where i can apply my  skills! and highly motivated  to learn new technologies!</p>

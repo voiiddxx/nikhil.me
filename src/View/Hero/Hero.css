@@ -6,7 +6,7 @@
     background-color: black;
     height: 100vh;
     width: 100%;
-    background-image: url("/src/View/Hero/protfoliobackground.svg");
+    background-image: url("/src/View/check.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -46,6 +46,14 @@
     font-weight: 900;
     font-size: 1.4rem;
    color: white; 
+}
+
+.hero-text .mid-bold-text h1 span{
+    
+  background: -webkit-linear-gradient(#3dfff5, #34ff82);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    
 }
 
 .bottom-light-text{

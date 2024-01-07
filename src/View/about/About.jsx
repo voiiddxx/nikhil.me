@@ -1,6 +1,6 @@
 import React from 'react'
 import "./About.css"
-import abouthero from "./stage1.jpg"
+import abouthero from "./profile.svg"
 const About = () => {
   return ( 
     <div className="about-main">
@@ -11,9 +11,10 @@ Fast-forward to today, and I’ve had the privilege of making some good mobile a
         </div>
         <div className="about-image">
     <img src={abouthero} alt="aboutherosvg" />
-        </div>
+        </div>    
     </div>
   )
 } 
 
 export default About
+

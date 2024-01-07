@@ -1,6 +1,6 @@
 .skill-main{
     width: 100%;
-    background-image: url("../nocolor.svg");
+    background-image: url("../grid.svg");
     display: flex;
     flex-direction: column;
     align-items: center;
