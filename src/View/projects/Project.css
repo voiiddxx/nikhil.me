@@ -211,7 +211,27 @@
 .p-image-3{
     height: 180px;
     width: 350px;
-    background-image: url("./pro.svg");
+    background-image: url("./event.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: wheat;
+    border-radius: 5px;
+}
+.p-image-4{
+    height: 180px;
+    width: 350px;
+    background-image: url("./Frame\ 3.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: wheat;
+    border-radius: 5px;
+}
+.p-image-5{
+    height: 180px;
+    width: 350px;
+    background-image: url("./frame\ 4.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
