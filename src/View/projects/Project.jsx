@@ -16,7 +16,10 @@ const Project = () => {
             <div className="p-card">
                               <div className="p-image-2"></div>
                               <div className="p-text">
+                            <div className="head">
                             <h1>Pro Planet App</h1>
+                            <p>Hackathon Project</p>
+                            </div>
                             <p>Platform made for identify the enciroementol cincious poeple and to engage them to accelrate</p>
                             <div className="tech">
                               <div className="tech-box">
@@ -47,7 +50,10 @@ const Project = () => {
     <div className="p-card">
                 <div className="p-image"></div>
               <div className="p-text">
-              <h1>Threads</h1>
+              <div className="head-t">
+                            <h1>Threads</h1>
+                            <p>Webapp (github)</p>
+                            </div>
               <p>Clone of thread web application implemented all the feature that a modern applications demands</p>
               <div className="tech">
                 <div className="tech-box">
@@ -75,7 +81,10 @@ const Project = () => {
              <div className="p-card">
                 <div className="p-image-3"></div>
                 <div className="p-text">
-              <h1>Event Sync</h1>
+                <div className="head-e">
+                            <h1>EventSync</h1>
+                            <p>Under Developement</p>
+                            </div>
               <p>Platform made to improve the event management practice in campus</p>
               <div className="tech">
                 <div className="tech-box">
@@ -108,7 +117,10 @@ const Project = () => {
               <div className="p-card">
                 <div className="p-image-4"></div>
                 <div className="p-text">
-              <h1>E commerce Clone</h1>
+                <div className="head-a">
+                            <h1>E Commerce</h1>
+                            <p>Mobile/Web Github</p>
+                            </div>
               <p>e Commerce clone Implemented the user pannel and admin pannel feature </p>
               <div className="tech">
                 <div className="tech-box">
@@ -144,7 +156,10 @@ const Project = () => {
               <div className="p-card">
                 <div className="p-image-5"></div>
                 <div className="p-text">
-              <h1>Pro Planet Person App</h1>
+                <div className="head-f">
+                            <h1>Planet Pulse</h1>
+                            <p>SIH Project</p>
+                            </div>
               <p>Platform made for identify the enciroementol cincious poeple and to engage them to accelrate</p>
               <div className="tech">
                 <div className="tech-box">

@@ -192,7 +192,13 @@
 
 .p-text{
     margin: 10px;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
+
+
 .p-image{
     height: 180px;
     width: 350px;
@@ -242,4 +248,85 @@
     background-position: center center;
     background-color: wheat;
     border-radius: 5px;
+}
+
+
+.head-t{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;;
+}
+
+.head-t p{
+    font-family: 'Manrope' , sans-serif;
+    font-weight: 500;
+    font-size: 9px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgba(55, 99, 103, 0.262);
+    color: rgb(131, 255, 247);
+}
+
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;;
+}
+
+.head p{
+    font-family: 'Manrope' , sans-serif;
+    font-weight: 500;
+    font-size: 9px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgba(87, 103, 55, 0.262);
+    color: rgb(220, 255, 131);
+}
+
+.head-e{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;;
+}
+
+.head-e p{
+    font-family: 'Manrope' , sans-serif;
+    font-weight: 500;
+    font-size: 9px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgba(101, 55, 103, 0.262);
+    color: rgb(222, 131, 255);
+}
+
+.head-a{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;;
+}
+
+.head-a p{
+    font-family: 'Manrope' , sans-serif;
+    font-weight: 500;
+    font-size: 9px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgba(62, 55, 103, 0.262);
+    color: rgb(131, 148, 255);
+}
+
+.head-f{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;;
+}
+
+.head-f p{
+    font-family: 'Manrope' , sans-serif;
+    font-weight: 500;
+    font-size: 9px;
+    border-radius: 20px;
+    padding: 5px;
+    background-color: rgba(55, 103, 81, 0.262);
+    color: rgb(131, 255, 177);
 }
