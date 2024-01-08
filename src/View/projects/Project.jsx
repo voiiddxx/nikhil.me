@@ -11,11 +11,12 @@ const Project = () => {
             </div>
             <div className="project-card">
               {/* Pro Planet Card */}
-            
-                            <div className="p-card">
+            <a href="https://github.com/voiiddxx/Pro-planet">
+              
+            <div className="p-card">
                               <div className="p-image-2"></div>
                               <div className="p-text">
-                            <h1>Planet Pulse</h1>
+                            <h1>Pro Planet App</h1>
                             <p>Platform made for identify the enciroementol cincious poeple and to engage them to accelrate</p>
                             <div className="tech">
                               <div className="tech-box">
@@ -39,13 +40,15 @@ const Project = () => {
                             </div>
                             </div>
                             </div>
+            </a>
 
-
-                            <div className="p-card">
+    <a href="https://github.com/voiiddxx/Thread-react-node">
+      
+    <div className="p-card">
                 <div className="p-image"></div>
               <div className="p-text">
-              <h1>Planet Pulse</h1>
-              <p>Platform made for identify the enciroementol cincious poeple and to engage them to accelrate</p>
+              <h1>Threads</h1>
+              <p>Clone of thread web application implemented all the feature that a modern applications demands</p>
               <div className="tech">
                 <div className="tech-box">
                   <p>React Js</p>
@@ -62,46 +65,51 @@ const Project = () => {
                 <div className="tech-box">
                   <p>Express Js</p>
                 </div>
-                <div className="tech-box">
-                  <p>Figma</p>
-                </div>
+               
               </div>
               </div>
 
               </div>
-              <div className="p-card">
+    </a>
+             <a href="https://github.com/voiiddxx/EventSync">
+             <div className="p-card">
                 <div className="p-image-3"></div>
                 <div className="p-text">
-              <h1>Planet Pulse</h1>
-              <p>Platform made for identify the enciroementol cincious poeple and to engage them to accelrate</p>
+              <h1>Event Sync</h1>
+              <p>Platform made to improve the event management practice in campus</p>
               <div className="tech">
                 <div className="tech-box">
-                  <p>React Js</p>
+                  <p>Next Js</p>
                 </div>
                 <div className="tech-box">
-                  <p>Nodejs</p>
+                  <p>Clerk</p>
                 </div>
                 <div className="tech-box">
                   <p>Mongo Db</p>
                 </div>
                 <div className="tech-box">
-                  <p>Context API</p>
+                  <p>Nodejs</p>
                 </div>
                 <div className="tech-box">
                   <p>Express Js</p>
                 </div>
                 <div className="tech-box">
-                  <p>Figma</p>
+                  <p>TypeScript</p>
+                </div>
+                <div className="tech-box">
+                  <p>Shadcn UI</p>
                 </div>
               </div>
               </div>
 
               </div>
+             </a>
+              <a href="https://github.com/voiiddxx/react-node-e-com-with-admin">
               <div className="p-card">
                 <div className="p-image-4"></div>
                 <div className="p-text">
-              <h1>Planet Pulse</h1>
-              <p>Platform made for identify the enciroementol cincious poeple and to engage them to accelrate</p>
+              <h1>E commerce Clone</h1>
+              <p>e Commerce clone Implemented the user pannel and admin pannel feature </p>
               <div className="tech">
                 <div className="tech-box">
                   <p>React Js</p>
@@ -119,20 +127,28 @@ const Project = () => {
                   <p>Express Js</p>
                 </div>
                 <div className="tech-box">
-                  <p>Figma</p>
+                  <p>Flutter</p>
+                </div>
+                <div className="tech-box">
+                  <p>Provider</p>
+                </div>
+                <div className="tech-box">
+                  <p>Dart</p>
                 </div>
               </div>
               </div>
 
               </div>
+              </a>
+              <a href="https://github.com/voiiddxx/Planet-Pulse-Flutter">
               <div className="p-card">
                 <div className="p-image-5"></div>
                 <div className="p-text">
-              <h1>Planet Pulse</h1>
+              <h1>Pro Planet Person App</h1>
               <p>Platform made for identify the enciroementol cincious poeple and to engage them to accelrate</p>
               <div className="tech">
                 <div className="tech-box">
-                  <p>React Js</p>
+                  <p>Flutter</p>
                 </div>
                 <div className="tech-box">
                   <p>Nodejs</p>
@@ -141,13 +157,13 @@ const Project = () => {
                   <p>Mongo Db</p>
                 </div>
                 <div className="tech-box">
-                  <p>Context API</p>
+                  <p>Rest API</p>
                 </div>
                 <div className="tech-box">
-                  <p>Express Js</p>
+                  <p>Provider</p>
                 </div>
                 <div className="tech-box">
-                  <p>Figma</p>
+                  <p>GeoLocator</p>
                 </div>
               </div>
               </div>
@@ -156,6 +172,7 @@ const Project = () => {
              
              
             
+              </a>
              
               
             </div>

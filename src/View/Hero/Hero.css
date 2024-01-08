@@ -116,9 +116,16 @@
     justify-content: center;
 }
 
+.hero-button a{
+    text-decoration: none;
+    color: rgb(0, 70, 50);
+}
+
 .connect-button p{
     font-family: 'Manrope', sans-serif;
     font-weight: 700;
+    text-decoration: none;
+    font-style: normal;
 }
 .github-button{
     height: 40px;
@@ -140,3 +147,39 @@
 
 
 
+@media screen and (max-width: 738px) {
+
+   .mid-bold-text h1{
+    font-size: 35px;
+    margin-left: 30px;
+    margin-right: 30px;
+   }
+
+   .bottom-light-text p{
+    font-size: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+   }
+
+   .connect-button{
+    height: auto;
+    width:auto;
+    padding: 10px;
+   }
+
+   .github-button{
+    height: auto;
+    width: auto;
+    padding: 5px;
+   }
+
+   .connect-button p{
+    font-size: 14px;
+   }
+   .github-button p{
+    font-size: 14px;
+   }
+
+   
+   
+}

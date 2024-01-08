@@ -143,6 +143,11 @@
     margin-top: 10px;
 }
 
+.project-card a{
+    text-decoration: none;
+    font-style: normal;
+}
+
 .p-card{
     min-height: 300px;
     height: 350px;
@@ -201,7 +206,7 @@
 .p-image-2{
     height: 180px;
     width: 350px;
-    background-image: url("./pro.svg");
+    background-image: url("./frame\ 4.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -231,7 +236,7 @@
 .p-image-5{
     height: 180px;
     width: 350px;
-    background-image: url("./frame\ 4.svg");
+    background-image: url("./pro.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;

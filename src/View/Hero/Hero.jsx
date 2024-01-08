@@ -22,19 +22,23 @@ const Hero = () => {
               </a>
             </div>
             <div className="mid-bold-text">
-              <h1>Hey, My Name is <span> Nikhil Kumar</span> , <br /> Am A Full Stack Developer</h1>
+              <h1>Hey, My Name is <span> Nikhil Kumar</span>  <br /> Am A Full Stack Developer</h1>
             </div>
             <div className="bottom-light-text">
               <p>computer science student with passion for cross platform dev  & Web App dev looking  for internship <br /> where i can apply my  skills! and highly motivated  to learn new technologies!</p>
             </div>
 
             <div className="hero-button">
-              <div className="connect-button">
+             <a href="https://www.linkedin.com/in/nikhil-kumar-1043b7239/">
+             <div className="connect-button">
                 <p>Connect⚡</p>
               </div>
+             </a>
+              <a href="https://github.com/voiiddxx">
               <div className="github-button">
                 <p>Star on Github 💫</p>
               </div>
+              </a>
             </div>
           
         </div>
