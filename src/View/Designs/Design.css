@@ -1,0 +1,75 @@
+
+.design{
+    min-height: 400px;
+    width: 100%;
+    background-image: url("../grid.svg");
+}
+
+.design-parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.design-card{
+    margin-top: 30px;
+    background-color: rgb(40, 40, 40);
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.design-image{
+    filter: grayscale(100%);
+    height: 300px;
+    width: 350px;
+    border-radius: 5px;
+    background-color: white;
+    background-image: url("./teacher.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.design-image:hover{
+    filter: grayscale(0%);
+    transition: 0.s cubic-bezier(0.165, 0.84, 0.44, 1) ;
+}
+.design-image-2{
+    filter: grayscale(100%);
+    height: 320px;
+    width: 370px;
+    border-radius: 5px;
+    background-color: white;
+    background-image: url("./planetpulsehand.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.design-image-2:hover{
+    filter: grayscale(0%);
+    transition: 0.s cubic-bezier(0.165, 0.84, 0.44, 1) ;
+}
+.design-image-3{
+    filter: grayscale(100%);
+    height: 300px;
+    width: 350px;
+    border-radius: 5px;
+    background-color: white;
+    background-image: url("./SuperBeta\ \(1\).svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    cursor: pointer;
+}
+
+.design-image-3:hover{
+    filter: grayscale(0%);
+    transition: 0.s cubic-bezier(0.165, 0.84, 0.44, 1) ;
+}

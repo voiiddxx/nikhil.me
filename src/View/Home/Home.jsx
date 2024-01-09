@@ -7,6 +7,7 @@ import Skill from '../skills/Skill'
 import Learning from '../skills/Learning'
 import Footer from '../footer/Footer'
 import Hackathon from '../Acvievement/Hackathon'
+import Design from '../Designs/Design'
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
     <Hero/>
     <About/>
     <Project/>
+    <Design/>
     <Hackathon/>
     <Skill/>
     <Learning/>
