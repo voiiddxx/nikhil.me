@@ -4,7 +4,7 @@ const Learning = () => {
     return (
         <div className="skill-main">
          <div className="skill-upper">
-             <h1>Skills Which Will Matters</h1>
+             <h1>Learning Zone</h1>
              <p>The Skills Which I am Currently Learning</p>
          </div>
          <div className="skill-card">
