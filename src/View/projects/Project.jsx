@@ -11,6 +11,39 @@ const Project = () => {
             </div>
             <div className="project-card">
               {/* Pro Planet Card */}
+            <a href="https://swiftfolio.vercel.app/">
+              
+            <div className="p-card">
+                              <div className="p-image-swift"></div>
+                              <div className="p-text">
+                            <div className="head">
+                            <h1>SwiftFolio</h1>
+                            <p>Under Developement</p>
+                            </div>
+                            <p>Platform built using next js where any individiual cam create their own portfolio website in few minuts</p>
+                            <div className="tech">
+                              <div className="tech-box">
+                                <p>React Js</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>Nodejs</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>Mongo Db</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>Context API</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>Express Js</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>Figma</p>
+                              </div>
+                            </div>
+                            </div>
+                            </div>
+            </a>
             <a href="https://github.com/voiiddxx/Pro-planet">
               
             <div className="p-card">
@@ -20,7 +53,7 @@ const Project = () => {
                             <h1>Pro Planet App</h1>
                             <p>Hackathon Project</p>
                             </div>
-                            <p>Platform made for identify the enciroementol cincious poeple and to engage them to accelrate</p>
+                            <p>Platform made for identify the enciroementol concious poeple and to engage them to accelrate</p>
                             <div className="tech">
                               <div className="tech-box">
                                 <p>React Js</p>
@@ -77,13 +110,13 @@ const Project = () => {
 
               </div>
     </a>
-             <a href="https://github.com/voiiddxx/EventSync">
+             <a href="https://event-sync-pi.vercel.app/">
              <div className="p-card">
                 <div className="p-image-3"></div>
                 <div className="p-text">
                 <div className="head-e">
                             <h1>EventSync</h1>
-                            <p>Under Developement</p>
+                            <p>Deployed</p>
                             </div>
               <p>Platform made to improve the event management practice in campus</p>
               <div className="tech">

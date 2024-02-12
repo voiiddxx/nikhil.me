@@ -209,6 +209,17 @@
     background-color: wheat;
     border-radius: 5px;
 }
+.p-image-swift{
+    height: 180px;
+    width: 350px;
+    background-image: url("./swiftfolio.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-color: wheat;
+    border-radius: 5px;
+
+}
 .p-image-2{
     height: 180px;
     width: 350px;

@@ -21,7 +21,6 @@ const Learning = () => {
              <div className="box">
                  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-docker-5645891-4695749.png?f=webp" alt="react" />
              </div>
-             
          </div>
         </div>
        )
