@@ -18,27 +18,30 @@ const Project = () => {
                               <div className="p-text">
                             <div className="head">
                             <h1>SwiftFolio</h1>
-                            <p>Under Developement</p>
+                            <p>Deployed</p>
                             </div>
                             <p>Platform built using next js where any individiual cam create their own portfolio website in few minuts</p>
                             <div className="tech">
                               <div className="tech-box">
-                                <p>React Js</p>
+                                <p>NextJs</p>
                               </div>
                               <div className="tech-box">
-                                <p>Nodejs</p>
+                                <p>TypeScript</p>
                               </div>
                               <div className="tech-box">
                                 <p>Mongo Db</p>
                               </div>
                               <div className="tech-box">
-                                <p>Context API</p>
+                                <p>Clerk</p>
                               </div>
                               <div className="tech-box">
-                                <p>Express Js</p>
+                                <p>Shadcn UI</p>
                               </div>
                               <div className="tech-box">
-                                <p>Figma</p>
+                                <p>Tailwind css</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>React Hook Form</p>
                               </div>
                             </div>
                             </div>
