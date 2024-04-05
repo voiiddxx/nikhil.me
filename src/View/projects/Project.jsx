@@ -5,12 +5,42 @@ const Project = () => {
     <div className="project-main">
         <div className="project-box">
             <div className="project-text">
-              
                 <h1>Checkout The Premium <br /> Projects and Explore</h1>
                 <p>What good is that Skill if you can't put it to use on the project?</p>
             </div>
             <div className="project-card">
               {/* Pro Planet Card */}
+            <a href="https://swiftfolio.vercel.app/">
+              
+            <div className="p-card">
+                              <div className="p-image-swift"></div>
+                              <div className="p-text">
+                            <div className="head">
+                            <h1>Help.ai</h1>
+                            <p>Deployed</p>
+                            </div>
+                            <p>A Platform built using nextjs for aiming to provide multiple ai powered tool at place , i.e: Caption genreator , roadmap genreator , resume reviewer etc </p>
+                            <div className="tech">
+                              <div className="tech-box">
+                                <p>NextJs</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>TypeScript</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>OpenAi</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>Gemini Pro vision</p>
+                              </div>
+                              <div className="tech-box">
+                                <p>Tailwind css</p>
+                              </div>
+                              
+                            </div>
+                            </div>
+                            </div>
+            </a>
             <a href="https://swiftfolio.vercel.app/">
               
             <div className="p-card">
@@ -47,6 +77,9 @@ const Project = () => {
                             </div>
                             </div>
             </a>
+
+
+            {/* pro planet card */}
             <a href="https://github.com/voiiddxx/Pro-planet">
               
             <div className="p-card">
